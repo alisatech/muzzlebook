@@ -1,4 +1,4 @@
-# MuzzleBokk
+# MuzzleBook
 ##### 🐶 facebook clone for puppies 
 
 ## Setup
